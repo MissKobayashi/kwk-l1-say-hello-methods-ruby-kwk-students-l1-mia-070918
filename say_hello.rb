@@ -1,8 +1,8 @@
-# def
+def
 
-# say_hello("Gabriela")
+say_hello("Gabriela")
 
-# end
+end
 # def name
 # puts "Hello what's your name?"
 # name = gets.chomp
