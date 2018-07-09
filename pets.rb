@@ -1,5 +1,5 @@
 def say_hello(name = "Kode with Klossy Scolar")
-  puts "Hello #{name}"
+  puts "Hello #{name}!"
 end
 
 
