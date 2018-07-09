@@ -1,4 +1,5 @@
 def
 
-say_hello = "Hello"
+say_hello("Gabriela")
+
 end
